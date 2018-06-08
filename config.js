@@ -41,7 +41,7 @@ nconf
     // https://docs.mongodb.org/manual/reference/connection-string/
 
     MYSQL_USER: 'root',
-    MYSQL_PASSWORD: 'root@SQL1',
+    MYSQL_PASSWORD: '',
 
     INSTANCE_CONNECTION_NAME: 'auctioning-192405:asia-south1:auctionapp'
   });
